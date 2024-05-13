@@ -1,0 +1,23 @@
+body {
+    background-color: #90EE90;
+    display: flex;
+    justifu-content: center;
+    algin-items: center;
+    flex-direction: column;
+}
+
+header {
+    text-algin: center;
+    color: white;
+    font-family: Arial;
+    background-image: url(images.jpg);
+    background-size: 100%;
+}
+
+section {
+    text-algin: center;
+}
+
+footer {
+    text-algin: center;
+}
